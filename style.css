@@ -7,7 +7,7 @@
 
 @font-face {
     font-family: 'CustomFont';
-    src: url('super_mario_256/SuperMario256.ttf') format('truetype');
+    src: url('SuperMario256.ttf') format('truetype');
 }
 
 body {
